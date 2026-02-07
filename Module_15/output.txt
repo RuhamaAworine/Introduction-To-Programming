@@ -1,0 +1,4 @@
+0th index address of array: 000000000061FE30
+Array name: 000000000061FE30
+10
+100 20 30 40 50 

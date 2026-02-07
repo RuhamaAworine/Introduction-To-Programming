@@ -1,0 +1,1 @@
+//Explain the calculation of how an array finds its 3rd index. [what will happen if we try to print a[3] ]

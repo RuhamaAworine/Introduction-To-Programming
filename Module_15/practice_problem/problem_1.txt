@@ -1,0 +1,8 @@
+Difference between pass by value and pass by reference:
+Pass BY Value:
+1.A copy of the actual value is passed to the function.
+2.Changes made inside the function do not affect the original variable.
+
+Pass By reference:
+1.The address (reference) of the actual variable is passed to the function.
+2.Changes made inside the function affect the original variable.
